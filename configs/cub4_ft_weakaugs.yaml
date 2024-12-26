@@ -1,0 +1,4 @@
+defaults:
+    dataset: 'datasets/cub4.yaml'
+    settings: 'settings/ft.yaml'
+    augs: 'augs/weakaugs.yaml'

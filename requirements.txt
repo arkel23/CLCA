@@ -1,0 +1,11 @@
+torch==1.13.1
+torchvision==0.14.1
+numpy==1.23.5
+pandas==1.5.3
+timm==0.9.12
+opencv-python==4.10.0.84
+wandb=0.14.0
+einops=0.4.0
+torchprofile==0.0.4
+thop==0.1.1-2209072238
+ptflops==0.7

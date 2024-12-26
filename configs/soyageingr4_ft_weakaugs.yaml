@@ -1,0 +1,4 @@
+defaults:
+    dataset: 'datasets/soyageingr4.yaml'
+    settings: 'settings/ft.yaml'
+    augs: 'augs/weakaugs.yaml'

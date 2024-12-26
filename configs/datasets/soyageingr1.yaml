@@ -1,0 +1,10 @@
+dataset_name: 'soyageingr1'
+dataset_root_path: '../../data/soyageing'
+df_train: 'train_R1.csv'
+df_trainval: train_val_R1.csv
+df_val: 'val_R1.csv'
+df_test: 'test_R1.csv'
+folder_train: '.'
+folder_val: '.'
+folder_test: '.'
+df_classid_classname: False

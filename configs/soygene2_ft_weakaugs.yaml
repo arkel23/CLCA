@@ -1,0 +1,4 @@
+defaults:
+    dataset: 'datasets/soygene2.yaml'
+    settings: 'settings/ft.yaml'
+    augs: 'augs/weakaugs.yaml'
