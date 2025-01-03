@@ -1,6 +1,7 @@
 # Cross-Layer Cache Aggregation for Token Reduction in Ultra-Fine-Grained Image Recognition
 
-This repository is the official Pytorch implementation of [Cross-Layer Cache Aggregation for Token Reduction in Ultra-Fine-Grained Image Recognition](https://arxiv.org/abs/2412.). 
+This repository is the official Pytorch implementation of
+ [Cross-Layer Cache Aggregation for Token Reduction in Ultra-Fine-Grained Image Recognition](https://arxiv.org/abs/2501.00243). 
 
 
 We propose a novel plug-in-method, CLCA, to avoid information loss and instabilities
@@ -31,7 +32,8 @@ datasets at a lower cost:
 
 ![](./assets/table_sota_clca.png)
 
-Pre-trained checkpoints are available on [HuggingFace](https://huggingface.co/NYCU-PCSxNTHU-MIS/CLCACrossLayerCacheAggregationTokenReductionUFGIR)!
+Pre-trained checkpoints are available on 
+[HuggingFace](https://huggingface.co/NYCU-PCSxNTHU-MIS/CLCACrossLayerCacheAggregationTokenReductionUFGIR)!
 
 
 
@@ -100,13 +102,16 @@ Parts of the analysis code is based and inspiredby:
 The Code is licensed under an MIT License, with exceptions of the afforementioned code credits which follows the license of the original authors.
 
 ## Bibtex
-
-```bibtex
-@InProceedings{Haurum_2023_ICCVW,
-author = {Joakim Bruslund Haurum and Sergio Escalera and Graham W. Taylor and Thomas B. Moeslund},
-title = {Which Tokens to Use? Investigating Token Reduction in Vision Transformers},
-booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
-month = {October},
-year = {2023},
+```
+@misc{rios_cross-layer_2024,
+	title = {Cross-{Layer} {Cache} {Aggregation} for {Token} {Reduction} in {Ultra}-{Fine}-{Grained} {Image} {Recognition}},
+	copyright = {All rights reserved},
+	doi = {10.48550/arXiv.2501.00243},
+	url = {http://arxiv.org/abs/2501.00243},
+	publisher = {arXiv},
+	author = {Rios, Edwin Arkel and Yuanda, Jansen Christopher and Ghanz, Vincent Leon and Yu, Cheng-Wei and Lai, Bo-Cheng and Hu, Min-Chun},
+	month = dec,
+	year = {2024},
+	annote = {Comment: Accepted to ICASSP 2025. Main: 5 pages, 4 figures, 1 table},
 }
 ```
