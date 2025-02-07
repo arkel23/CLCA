@@ -1,7 +1,8 @@
 # Cross-Layer Cache Aggregation for Token Reduction in Ultra-Fine-Grained Image Recognition
 
 This repository is the official Pytorch implementation of
- [Cross-Layer Cache Aggregation for Token Reduction in Ultra-Fine-Grained Image Recognition](https://arxiv.org/abs/2501.00243). 
+[Cross-Layer Cache Aggregation for Token Reduction in Ultra-Fine-Grained Image Recognition](https://arxiv.org/abs/2501.00243)
+accepted for publication at ICASSP 25. 
 
 
 We propose a novel plug-in-method, CLCA, to avoid information loss and instabilities
